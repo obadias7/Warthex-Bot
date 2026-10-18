@@ -10,6 +10,6 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "bedrock-protocol": "^4.11.0"
+    "bedrock-protocol": "^3.48.1"
   }
 }
