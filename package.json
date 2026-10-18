@@ -1,0 +1,15 @@
+{
+  "name": "warthexbot-24h-bedrock",
+  "version": "1.0.0",
+  "description": "Bot Bedrock 24/7 para obsidianorb.falix.pro - WarthexBot_24h",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^4.11.0"
+  }
+}
